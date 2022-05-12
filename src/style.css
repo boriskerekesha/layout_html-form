@@ -1,40 +1,20 @@
+* form {
+  margin: 0;
+}
+
 .label-group {
   display: block;
 }
 
 .fieldset-1 {
   margin-top: 8px;
-  margin-bottom: 0;
 }
 
-.fieldset-2,
-.fieldset-3,
-.fieldset-4,
+.fieldset,
 .submit {
   margin-top: 20px;
-  margin-bottom: 0;
 }
 
-.name,
-.age,
-.date-of-birth,
-.assept,
-.password {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-
-.surname,
-.email,
-.additional {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.color,
-.time-bed,
-.cars,
-.rate,
-.recommend {
+.distance-input {
   margin-top: 10px;
 }
